@@ -45,6 +45,7 @@ const groups = [
       "TypeScript",
       "React",
       "Tailwind CSS",
+      "SQL",
       "Git/GitHub",
       "Vite",
     ],

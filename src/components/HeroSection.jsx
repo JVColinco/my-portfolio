@@ -9,12 +9,12 @@ function HeroSection() {
           Hi, I&apos;m <span>Jordan.</span>
         </h1>
         <p className="hero-description">
-          I&apos;m a Magna Cum Laude IT graduate eager to start my professional
-          career and gain hands-on industry experience. Backed by an IT support
-          internship and 2+ years of visual and graphic design work, I focus on
-          system troubleshooting, UI/UX design, and creating user-friendly
-          digital interfaces. I enjoy connecting design with technology—making
-          systems and interfaces simpler, more efficient, and easy to use.
+          I&apos;m an IT graduate eager to start my professional career and gain
+          hands-on industry experience. Backed by an IT support internship and
+          2+ years of visual and graphic design work, I focus on system
+          troubleshooting, UI/UX design, and creating user-friendly digital
+          interfaces. I enjoy connecting design with technology—making systems
+          and interfaces simpler, more efficient, and easy to use.
         </p>
         <div className="hero-location">
           <MapPin size={14} aria-hidden="true" />

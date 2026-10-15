@@ -16,6 +16,7 @@ const groups = [
       "Equipment deployment",
       "Preventive maintenance",
       "Microsoft 365",
+      "Google Workspace",
       "Technical support",
     ],
   },
